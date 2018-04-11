@@ -2,12 +2,6 @@
 layout: default
 ---
 
-# top
+# Home
 
-## a
-
-a
-
-## b
-
-b
+nothing here
