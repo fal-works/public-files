@@ -1,11 +1,13 @@
 ---
-title: test
+layout: default
 ---
 
-# a
+# top
+
+## a
 
 a
 
-# b
+## b
 
 b
