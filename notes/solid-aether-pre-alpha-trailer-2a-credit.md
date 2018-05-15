@@ -4,7 +4,7 @@
 
 - Weapon Of Drum And Bass Destruction
   - © 2017 Macta Mendax
-  - [https://soundcloud.com/mactamendax/weapon-of-drum-and-bass-destruction]()
+  - https://soundcloud.com/mactamendax/weapon-of-drum-and-bass-destruction
   - [CC BY 3.0][]
 
 ## Sounds
