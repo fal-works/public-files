@@ -1,8 +1,8 @@
-# Solid Aether pre-alpha trailer #2 - copyright credit of audio materials
+# Solid Aether pre-alpha trailer #2a - copyright credit of audio materials
 
 ## Music
 
-- Fading
+- Weapon Of Drum And Bass Destruction
   - © 2017 Macta Mendax
   - [https://soundcloud.com/mactamendax/weapon-of-drum-and-bass-destruction]()
   - [CC BY 3.0][]
@@ -17,7 +17,7 @@
   - © ZapSplat
   - [https://www.zapsplat.com/music/gunshots-machine-gun-burst-distant/]()
   - [license](https://www.zapsplat.com/license-type/standard-license/)
-  - changes: trimmed
+  - modified (trimmed)
 - Homeade gun shot1 (NO ECHO).wav
   - @ 2013 Noah_Fletcher
   - [https://freesound.org/people/Noah_Fletcher/sounds/200245/]()
@@ -26,6 +26,7 @@
   - @ Killy
   - [https://soundeffect-lab.info/]()
   - [terms of use](https://soundeffect-lab.info/agreement/)
+  - modified
 - 氷魔法
   - © Killy
   - [https://sounddictionary.info/]()
@@ -34,7 +35,7 @@
   - © 2014 qubodup
   - [https://freesound.org/people/qubodup/sounds/222373/]()
   - [CC BY 3.0][]
-  - changes: applied reverb effect
+  - modified (reverb effect)
 
 [CC BY 3.0]:https://creativecommons.org/licenses/by/3.0/
 [CC0 1.0]:https://creativecommons.org/publicdomain/zero/1.0/
