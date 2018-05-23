@@ -26,6 +26,7 @@
   - © Killy
   - [https://sounddictionary.info/](https://sounddictionary.info/)
   - [terms of use](https://sounddictionary.info/terms-of-use/)
+  - modified (changed pitch)
 - Balloon Pop
   - © 2014 qubodup
   - [https://freesound.org/people/qubodup/sounds/222373/](https://freesound.org/people/qubodup/sounds/222373/)
@@ -35,6 +36,7 @@
   - © VIDEO STATION Q Co.,Ltd.
   - [http://www.vsq.co.jp/soundeffect/](http://www.vsq.co.jp/soundeffect/)
   - [terms of use](http://www.vsq.co.jp/soundeffect/)
+  - modified (trimmed)
 
 [CC BY 3.0]:https://creativecommons.org/licenses/by/3.0/
 [CC0 1.0]:https://creativecommons.org/publicdomain/zero/1.0/
