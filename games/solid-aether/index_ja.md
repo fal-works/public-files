@@ -15,7 +15,7 @@ layout: default
 
 ## リンク
 
-公式サイト： [https://www.fal-works.com/solid-aether/](https://www.fal-works.com/solid-aether/)
+公式サイト： [https://www.fal-works.com/solid-aether-ja/](https://www.fal-works.com/solid-aether-ja/)
 
 Steam: [https://store.steampowered.com/app/910730/Solid_Aether/](https://store.steampowered.com/app/910730/Solid_Aether/)
 
