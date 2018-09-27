@@ -17,6 +17,6 @@ layout: default
 
 公式サイト： [https://www.fal-works.com/solid-aether-ja/](https://www.fal-works.com/solid-aether-ja/)
 
-Steam: [https://store.steampowered.com/app/910730/Solid_Aether/](https://store.steampowered.com/app/910730/Solid_Aether/)
+Steam： [https://store.steampowered.com/app/910730/Solid_Aether/](https://store.steampowered.com/app/910730/Solid_Aether/)
 
-itch.io: [https://fal-works.itch.io/solid-aether](https://fal-works.itch.io/solid-aether)
+itch.io： [https://fal-works.itch.io/solid-aether](https://fal-works.itch.io/solid-aether)
