@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Solid Aether files & links
+# Solid Aether ファイル＆リンク
 
 ## 無料体験版
 
@@ -13,9 +13,9 @@ layout: default
 ](https://pc-karuma.net/windows-10-protected-your-pc/)
 
 
-## Links
+## リンク
 
-Official website: [https://www.fal-works.com/solid-aether/](https://www.fal-works.com/solid-aether/)
+公式サイト： [https://www.fal-works.com/solid-aether/](https://www.fal-works.com/solid-aether/)
 
 Steam: [https://store.steampowered.com/app/910730/Solid_Aether/](https://store.steampowered.com/app/910730/Solid_Aether/)
 
