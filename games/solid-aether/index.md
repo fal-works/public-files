@@ -8,9 +8,9 @@ layout: default
 
 **[Download Solid Aether demo version (v1.0.0)](./solid_aether_demo.zip)**
 
-Note:  
-The demo version file is not digitally signed and you might get warnings when you download the file or run the game.  
-[https://www.tekrevue.com/tip/windows-protected-your-pc-disable-smartscreen/
+\[Note\]  
+This file is not yet digitally signed and you might get warnings when you download the file or run the game.  
+How to run: [https://www.tekrevue.com/tip/windows-protected-your-pc-disable-smartscreen/
 ](https://www.tekrevue.com/tip/windows-protected-your-pc-disable-smartscreen/)
 
 
