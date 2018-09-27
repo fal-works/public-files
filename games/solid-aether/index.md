@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Solid Aether files
 
 ## Demo version
