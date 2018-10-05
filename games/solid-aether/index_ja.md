@@ -9,6 +9,7 @@ layout: default
 **[Solid Aether 体験版 (v1.0.1) ダウンロード](./solid_aether_demo.zip)**
 
 体験版は、[itch.io](https://fal-works.itch.io/solid-aether)、[Freem](https://www.freem.ne.jp/win/game/18594)、[夢現](https://freegame-mugen.jp/shooting/game_7459.html) でもダウンロード可能です。
+
 近日中に[Steam](https://store.steampowered.com/app/910730/Solid_Aether/)にもアップロード予定です。
 
 ※このファイルは電子署名済みでないため、ダウンロード時や実行時に警告が表示されることがあります。  
