@@ -6,7 +6,7 @@ layout: default
 
 ## Demo version
 
-**[Download Solid Aether demo version (v1.0.1)](./solid_aether_demo.zip)**
+**[Download Solid Aether demo version (v1.0.2)](./solid_aether_demo.zip)**
 
 Currently the demo version is also available on [itch.io](https://fal-works.itch.io/solid-aether).
 
