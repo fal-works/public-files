@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# Home
+# Contents
 
-nothing here
+- [Games](./games/)

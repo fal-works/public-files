@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[-> English](./index.html)
+
 # Solid Aether ファイル＆リンク
 
 ## 無料体験版

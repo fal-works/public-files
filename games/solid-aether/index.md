@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[-> Japanese](./index_ja.html)
+
 # Solid Aether files & links
 
 ## Demo version
