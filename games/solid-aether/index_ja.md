@@ -10,7 +10,7 @@ layout: default
 
 ### Windows
 
-**[Solid Aether 体験版 (v1.0.3) ダウンロード](./solid_aether_demo.zip)**
+**[Solid Aether 体験版 (v1.0.4) ダウンロード](./solid_aether_demo.zip)**
 
 体験版は、[itch.io](https://fal-works.itch.io/solid-aether)、[Freem](https://www.freem.ne.jp/win/game/18594)、[夢現](https://freegame-mugen.jp/shooting/game_7459.html) でもダウンロード可能です。
 
